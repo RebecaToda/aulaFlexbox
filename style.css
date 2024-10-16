@@ -1,0 +1,26 @@
+img {
+  height: 250px;
+  align-self: center;
+}
+
+.text {
+  padding: 0 0 15% 10%;
+  align-self: flex-start;
+}
+
+button {
+  background-color: blueviolet;
+  border: none;
+  border-radius: 5px;
+  padding: 10px;
+}
+
+section {
+  padding-top: 5%;
+  align-items: center;
+  border: 1px solid #ccc;
+  width: 400px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
